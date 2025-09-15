@@ -1,2 +1,1 @@
 labo1, gestion de version, YoussouphaSeck
-erreur injectée
